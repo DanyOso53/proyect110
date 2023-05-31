@@ -1,0 +1,3 @@
+0 roca
+1 tijeras
+2 papel
